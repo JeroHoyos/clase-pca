@@ -37,12 +37,10 @@ Este repositorio reúne el material desarrollado como apoyo al estudio y la comp
 
 ### 🎥 Videos Recomendados
 
-
 | Título | Comentario | Enlace |
-|:-------|:-------|:--------|
-| Principle Component Analysis , PCA , Visual Explanation| | [Ver video](https://www.youtube.com/watch?v=p4XKrJ2zzQo&t=195s) |
-| Análisis de componentes principales (PCA)| | [Ver video]([https://www.youtube.com/watch?v=J_nEkcrOG4g&t=33s](https://www.youtube.com/watch?v=fsTSLXhz4uQ)) |
-| Latent Space Visualisation: PCA, t-SNE, UMAP , Deep Learning Animated| Acá tendrás más contexto de los puentes | [Ver video]([https://www.youtube.com/watch?v=lHJv5_1VL2o&t=1s](https://www.youtube.com/watch?v=o_cAOa5fMhE)) |
-| Principal Component Analysis (PCA)|  | [Ver video]([https://www.youtube.com/watch?v=lp-1rvtRYQg](https://www.youtube.com/watch?v=FD4DeN81ODY)) |
+|:-------|:------------|:--------|
+| Principle Component Analysis, PCA, Visual Explanation |  | [Ver video](https://www.youtube.com/watch?v=p4XKrJ2zzQo&t=195s) |
+| Análisis de componentes principales (PCA) |  | [Ver video](https://www.youtube.com/watch?v=fsTSLXhz4uQ) |
+| Latent Space Visualisation: PCA, t-SNE, UMAP, Deep Learning Animated | Acá tendrás más contexto de los puentes | [Ver video](https://www.youtube.com/watch?v=o_cAOa5fMhE) |
+| Principal Component Analysis (PCA) |  | [Ver video](https://www.youtube.com/watch?v=FD4DeN81ODY) |
 
----
