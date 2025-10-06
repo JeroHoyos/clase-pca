@@ -9,7 +9,7 @@
 **Autor:**  
 - **Jerónimo Hoyos Botero**
 
-Este repositorio reúne el material desarrollado como apoyo al estudio y la comprensión de los fundamentos del análisis de componentes principales.
+Este repositorio reúne el material desarrollado como apoyo al estudio y la comprensión detrás de la teoría del análisis de componentes principales y cómo aplicarla.
 
 
 ## 📖 Referencias y Recomendaciones
