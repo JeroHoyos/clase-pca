@@ -39,8 +39,8 @@ Este repositorio reúne el material desarrollado como apoyo al estudio y la comp
 
 | Título | Comentario | Enlace |
 |:-------|:------------|:--------|
-| Principle Component Analysis, PCA, Visual Explanation |  | [Ver video](https://www.youtube.com/watch?v=p4XKrJ2zzQo&t=195s) |
+| Principle Component Analysis, PCA, Visual Explanation |  | [Ver video](https://www.youtube.com/watch?v=fsTSLXhz4uQ&t=6s) |
 | Análisis de componentes principales (PCA) |  | [Ver video](https://www.youtube.com/watch?v=7My_PBhxeP4) |
-| Latent Space Visualisation: PCA, t-SNE, UMAP, Deep Learning Animated | | [Ver video](https://www.youtube.com/watch?v=o_cAOa5fMhE) |
-| Principal Component Analysis (PCA) |  | [Ver video](https://www.youtube.com/watch?v=FD4DeN81ODY) |
+| Latent Space Visualisation: PCA, t-SNE, UMAP, Deep Learning Animated | | [Ver video](https://www.youtube.com/watch?v=o_cAOa5fMhE&t=3s) |
+| Principal Component Analysis (PCA) |  | [Ver video](https://www.youtube.com/watch?v=FD4DeN81ODY&t=69s) |
 
